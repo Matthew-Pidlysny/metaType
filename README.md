@@ -123,3 +123,25 @@ The following are the schematics for the Metatypes in the archive.  I leave thes
 ### 638CD275AB
 ### 21756CDB758
 ### 32176CDB7
+
+# 16.  Graana'il
+
+### 217
+### 8B642C
+### B9864C279B
+### 276
+### 58C27B7C3EAD
+### 217
+### 5C
+### B
+### 2
+### C
+### A
+### B
+### C
+### D
+### EF
+### ABF27
+### BC
+### 396A
+### 5
