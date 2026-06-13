@@ -11,7 +11,7 @@ mˌɛtətˈa͡ɪp
 
 1.  A minimalized construct made in essentia, mechanized by fine parts designed to compute it's workload synchronously with it's initialization.
 
-2.  A ROM that catalyzes fatal word length capture and initializes a new system of values over a predetermined amount of time when the reset occurs.
+2.  A ROM that catalyzes fatal word length capture and, when reset, initializes a new system of values over a predetermined amount of time when the reset occurs.
 
 ### Example 1 - General Example (Custom Render):
 
