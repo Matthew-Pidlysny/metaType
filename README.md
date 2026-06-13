@@ -17,7 +17,7 @@ mˌɛtətˈa͡ɪp
 
 a {Slot 1, x1} e {Slot 3, x1} l {Slot 2, x1} x {Slot 4, x1} 53 times = alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex
 
-### Example 2 - Pidlysnian Metatyping:
+### Example 2 - Pidlysnian Metatyping (ARM Render):
 
 | 0 - Replacable Nib | 4 - Can be 4, 6, B, C2 | 3 - Standard Composition B | x - Final Discourse "Watchmaking" |
 
