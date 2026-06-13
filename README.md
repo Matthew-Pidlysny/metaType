@@ -26,3 +26,7 @@ The following are the schematics for the Metatypes in the archive.  I leave thes
 ### 356271985726ACB217958C628
 ### B1235607958C12BC3456
 
+# 5.  Dzaama'il
+
+### CBD2B148937526583149356AB
+### 25C1798B123568
