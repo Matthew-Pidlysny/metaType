@@ -79,3 +79,24 @@ The following are the schematics for the Metatypes in the archive.  I leave thes
 ### 5342B3ACDBE2
 ### 5412359
 ### 6
+
+# 14.  Gaada'il
+
+### B627
+### 1392
+### 5828
+### 6127
+### 5BCE
+### 21
+### 58
+### 6
+### 3
+### 2
+### 579B12856
+### 7298B
+### 5C
+### 8
+### 6C1
+### 3A2179B628714
+### 3695283129658
+### C
