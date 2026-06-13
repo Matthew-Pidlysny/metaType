@@ -100,3 +100,15 @@ The following are the schematics for the Metatypes in the archive.  I leave thes
 ### 3A2179B628714
 ### 3695283129658
 ### C
+
+# 15.  Thaamazini'il
+
+### D26AB74927586C27
+### B796A256B7938271956283
+### 5627BAC293715865B79283562715
+### 2715
+### 5834
+### 215
+### 638CD275AB
+### 21756CDB758
+### 32176CDB7
