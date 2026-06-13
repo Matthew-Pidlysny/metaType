@@ -150,3 +150,21 @@ The following are the schematics for the Metatypes in the archive.  I leave thes
 ### BC
 ### 396A
 ### 5
+
+# 17.  Baanzagi'il
+
+### 21758326
+### 489535C28B79C2785321836
+### B2791
+### D6
+### B
+###
+## Additional Lines:
+
+### i)  21856
+OR
+### ii)  5B796 and D7
+OR
+### iii) D6
+OR
+### 218569 and B3C26 and 78
