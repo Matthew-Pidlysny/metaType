@@ -8,6 +8,10 @@ mˌɛtətˈa͡ɪp
 
 2.  A ROM that catalyzes fatal word length capture and initializes a new system of values over a predetermined amount of time when the reset occurs.
 
+### Example:
+
+a {Slot 1, x1} e {Slot 3, x1} l {Slot 2, x1} x {Slot 4, x1} 53 times = alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex
+
 # Composite Code Structure
 
 The following are the schematics for the Metatypes in the archive.  I leave these signatures behind as my interpretation of "Pidlysnian Metatyping", whereas bytes are prestructured rather than free flowing.  Analyze the byte patterns ONLY by these rubrics, or try your best below.  You can also try to decipher the unlisted ones until I get to them by figuring out the block structure as is shown below.
