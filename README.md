@@ -71,3 +71,11 @@ The following are the schematics for the Metatypes in the archive.  I leave thes
 
 ### BD27BCDAF72BC237985C
 ### 27BC67D4BC21793658
+
+# 13.  Khzaama'il
+
+### FB279B6285279B72183649B7
+### 218562834562893571286
+### 5342B3ACDBE2
+### 5412359
+### 6
