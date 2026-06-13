@@ -11,3 +11,12 @@ The following are the schematics for the Metatypes in the archive.  I leave thes
 ### 279B7265873910F06271398562
 ### 5712B357931850312958732156CAB
 ### 32FC1279C837BC215
+ 
+# 2.  Saama'il
+
+### 0127956325ACDBC215370126
+
+# 3.  Dhaama'il
+
+### 3502712657908312657913560
+### B701265ACEB27935
