@@ -1,6 +1,13 @@
 # metaType
 Initialization Sequence Boot Numbers
 
+### Metatype (Noun)
+mˌɛtətˈa͡ɪp
+
+1.  A minimalized construct made in essentia, mechanized by fine parts designed to compute it's workload synchronously with it's initialization.
+
+2.  A ROM that catalyzes fatal word length capture and initializes a new system of values over a predetermined amount of time when the reset occurs.
+
 # Composite Code Structure
 
 The following are the schematics for the Metatypes in the archive.  I leave these signatures behind as my interpretation of "Pidlysnian Metatyping", whereas bytes are prestructured rather than free flowing.  Analyze the byte patterns ONLY by these rubrics, or try your best below.  You can also try to decipher the unlisted ones until I get to them by figuring out the block structure as is shown below.
