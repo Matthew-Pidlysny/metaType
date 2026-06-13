@@ -1,7 +1,10 @@
 # metaType
 Initialization Sequence Boot Numbers
-Project Start Date:  June 7, 2026
-Previously Accumulated Data:  0.034% of Current (June 13, 2026)
+
+### Project Start Date:  June 7, 2026
+### Previously Accumulated Data:  0.034% of Current (June 13, 2026)
+
+-----------------------------------------------------------------------------------
 
 ### Metatype (Noun)
 mˌɛtətˈa͡ɪp
