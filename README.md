@@ -20,3 +20,9 @@ The following are the schematics for the Metatypes in the archive.  I leave thes
 
 ### 3502712657908312657913560
 ### B701265ACEB27935
+
+# 4.  Kaama'il
+
+### 356271985726ACB217958C628
+### B1235607958C12BC3456
+
