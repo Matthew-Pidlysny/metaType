@@ -49,3 +49,25 @@ The following are the schematics for the Metatypes in the archive.  I leave thes
 ### 12793B6
 ### 217BCDEC
 ### 5B
+
+# 9.  Thaama'il
+
+### B2795CAED27645B79832856B7
+### 2159624728B62715
+
+# 10.  Raama'il
+
+### FCB279368BEAD2715638B
+### 2195683B79ACED27956
+### BCED
+
+# 11.  Thkaama'il
+
+### B21F5667128312975
+### B602712356BEDAEF8
+### C2714AB92712356
+
+# 12.  Kaamzaki'il
+
+### BD27BCDAF72BC237985C
+### 27BC67D4BC21793658
