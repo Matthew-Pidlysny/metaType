@@ -13,9 +13,20 @@ mˌɛtətˈa͡ɪp
 
 2.  A ROM that catalyzes fatal word length capture and initializes a new system of values over a predetermined amount of time when the reset occurs.
 
-### Example:
+### Example 1 - General Example (Custom Render):
 
 a {Slot 1, x1} e {Slot 3, x1} l {Slot 2, x1} x {Slot 4, x1} 53 times = alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex
+
+### Example 2 - Pidlysnian Metatyping:
+
+| 0 - Replacable Nib | 4 - Can be 4, 6, B, C2 | 3 - Standard Composition B | x - Final Discourse "Watchmaking" |
+
+### 0435
+### 2657
+### 02x5
+### B307
+
+Interpret as you will.
 
 # Composite Code Structure
 
