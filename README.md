@@ -30,3 +30,9 @@ The following are the schematics for the Metatypes in the archive.  I leave thes
 
 ### CBD2B148937526583149356AB
 ### 25C1798B123568
+
+# 6.  Bhaama'il
+
+### BC123A79B13CA2C9B135728
+### 5CD1279BCD123567890
+### 561235C791275658
