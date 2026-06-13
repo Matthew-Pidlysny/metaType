@@ -36,3 +36,16 @@ The following are the schematics for the Metatypes in the archive.  I leave thes
 ### BC123A79B13CA2C9B135728
 ### 5CD1279BCD123567890
 ### 561235C791275658
+
+# 7.  Jibraa'il
+
+### 3BF279857623498B72
+### B2658935625832749ABD
+### 2179562853
+
+# 8.  Israafi'il
+
+### C2B9832714BAC298
+### 12793B6
+### 217BCDEC
+### 5B
