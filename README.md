@@ -6,7 +6,7 @@ Initialization Sequence Boot Numbers
 
 ## About Donations
 
-There are many ways to do it but I prefer this method, and I do not wish to be paid for people's business success.  Simply download the Terminal progrm, inout account information (Totally 3-5x Safe for those who know what that means), and donate between $1.00 and $137.95 CDN.  The program will convert your currency for you through your institution, you should probably rely on everything being automatic for this.
+There are many ways to do it but I prefer this method, and I do not wish to be paid for people's business success.  Simply download the "Donations.exe" Terminal progrm, input account information (Totally 3-5x Safe for those who know what that means), and donate between $1.00 and $137.95 CDN.  The program will convert your currency for you through your institution, you should probably rely on everything being automatic for this.
 
 Thank you in whatever way you have helped shape the future of Metatypes.  There is no obligation to Donate but I appreciate everything.
 
