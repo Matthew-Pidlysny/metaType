@@ -28,6 +28,47 @@ a {Slot 1, x1} e {Slot 3, x1} l {Slot 2, x1} x {Slot 4, x1} 53 times = alex alex
 
 Interpret as you will.
 
+### Example 3 - x Format (Suggestion Only)
+
+Note:  I do this for someone who failed, I have the ability to see some Futures as a Sage and what I saw does not doom them, but they quit later when they could have had it, so here is my help, not the solution that overlays all (There are none being x Format).  I hope they and others benefit from this.
+
+----------------------------------------
+
+### xxx
+### xxxxx
+### xxxx
+### x
+### x
+### xx
+
+------------------------------------------
+
+### 012
+### 34567
+### 89AB
+### C
+### D
+### EF
+
+-----------------------------------
+
+### 0 - Up/Down Method
+### 1 - Follow Motion Nib
+### 2 - Bit Carry Status
+### 3 - 5 Sequence Chain Inhibitor
+### 4 - Dominant Nib
+### 5 - 6 Sequence Chain Inhibitor
+### 6 - Follow Sequence Nib
+### 7 - "Compose Now" Elements
+### 8 - F-Bit Snap Nib
+### 9 - Crash Elements
+### A - 5 "Bing" Nib
+### B - 2-Bit Operation
+### C - Contaminant Nib 1
+### D - Contaminant Nib 2
+### E - Contaminant Nib 3
+### F - "Bellicose Rhombus" Nib
+
 # Composite Code Structure
 
 The following are the schematics for the Metatypes in the archive.  I leave these signatures behind as my interpretation of "Pidlysnian Metatyping", whereas bytes are prestructured rather than free flowing.  Analyze the byte patterns ONLY by these rubrics, or try your best below.  You can also try to decipher the unlisted ones until I get to them by figuring out the block structure as is shown below.
