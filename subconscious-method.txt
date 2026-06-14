@@ -1,0 +1,40 @@
+How to Subconsciously Extract a Metatype
+========================================
+
+Tools Needed:
+
+1)  Functioning Brain
+
+2)  HxD (The Hex Editor I use, very simple)
+
+3)  Knowledge of Hexadecimal and Previous Sight of How It Works (As Seen, ignore Conscious Knowledge for now).
+
+4)  SOME knowledge of my Metatypes (At least having seen one or more)
+
+Steps:
+
+A)  Begin visualizing your concept.  Do not stop until you absolutely KNOW it.  Any shred of sense that tells you
+    that you don't know the full thing is the truth, so keep going until done.  This could take days or weeks, it 
+    takes minutes or hours for me as it will for you sooner than later in this experimentation (Not today).
+
+B)  Now we'll prepare to omit any Conscious relevance.  It does NOT know what we have done so far, nor how to comm-
+    unicate it properly, so let's just omit it for now.
+
+C)  Use enough of the Conscious Mind to translate ALL of the game into Bits and Bytes as you have seen them work, you
+    are omitting the Conscious Brain right now so we're NOT computing them, but assembling them with the subconscious.
+    Remember, if you sense at all it isn't done, that's the truth, so keep going until done.  Something just told me you
+    might need to write some stuff down, but it's relative to your own situation, so decide before continuing.
+
+D)  Now reference ALL my examples and everything you know of Metatypes, and design it.  Again, omit completion until
+    done.
+
+E)  Open HxD, click Edit, and then Insert Bytes.  Place an amount of bytes needed for your Metatype into the proper
+    box, and select OK.  It will now tell you you're modifying the file size.  Select "Do not show this again" and 
+    Click OK.
+
+F)  Click on the first Byte at the left hand side of it and begin typing your Hexadecimal Journey.  You do not need to
+    Capitalize anything here, just type it in as you need.  If the program finishes but there is an incomplete byte, you
+    have done it right.  It can be right with a complete byte at the end, but you must make that distinction.  Again, omit
+    the Conscious and make sure it's done.
+
+Good luck, Padawan!
