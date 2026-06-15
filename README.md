@@ -351,3 +351,15 @@ Apparently I didn't even need to post this one.  If I may, La morgule Fantasir P
 ### 2
 ### 64C7B1
 ### 5
+
+# 31. Thaanzu'il
+
+### 5C27936BC2179876
+### BBBBBBB1
+### BB1BBB111
+### B1B111B111B
+### B1B111B111BBB111
+### B111B1B111B1
+### B111B1B11B11BBBB
+### BB111BB11BB11
+### B1
