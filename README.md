@@ -373,3 +373,11 @@ Apparently I didn't even need to post this one.  If I may, La morgule Fantasir P
 ### B111B1B11B11BBBB
 ### BB111BB11BB11
 ### B1
+
+# 32.  Niyibliimi'il
+
+### -BC123
+### --123BC
+### -214-CDB
+### -21-7-9-35
+### 8
