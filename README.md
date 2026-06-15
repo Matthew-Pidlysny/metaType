@@ -326,3 +326,28 @@ OR
 ### FFFBCCCCCD22211158
 ### 33337792588883277715558
 ### 22793333271111111115
+
+# 30. Baanzgu'ili
+
+Apparently I didn't even need to post this one.  If I may, La morgule Fantasir Planstaar Vas Tisiin!
+
+### 582253627BCE26
+### 539
+### 72
+### 1
+### 53827BCD6
+### 271
+### 5
+### 38
+### 27
+### 1
+### 5
+### 3
+### 7
+### 1
+### 5
+### 2
+### 65371BC
+### 2
+### 64C7B1
+### 5
