@@ -1,6 +1,16 @@
 # metaType
 Initialization Sequence Boot Numbers
 
+----------------------------------------------------------------
+
+## Trick Of The Day
+
+Write a Metatype as though to write a thrash song.  It's more than a feeling for the subconscious, it's exactly how 31 was written at least.  For those who know how to write on paper, writing B and 1 will become evidently more like what I said than anything, and in that the mind "opens up to itself" in happiness.  
+
+Bonus Trick, think of your Metatyping in an environment of choice, on a beach with a glass of juice or on the sofa, even when you're not there.  Find happiness :)
+
+--------------------------------------------------------------------
+
 ### Project Start Date:  June 7, 2026
 ### Previously Accumulated Data:  0.034% of Current (June 13, 2026)
 
