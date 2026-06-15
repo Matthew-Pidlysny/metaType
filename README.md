@@ -382,8 +382,20 @@ Apparently I didn't even need to post this one.  If I may, La morgule Fantasir P
 ### -21-7-9-35
 ### 8
 
-# 32.  YourWorldForAPlaythrough
+# 33.  YourWorldForAPlaythrough
 
 ### 383823838338384567BCD2BC7
 ### 32132232332456BCDF27
 ### B1
+
+# 34.  TalesFromTheCrypt
+
+### BD--
+### -C1-
+### 4-2-
+### -5--
+### 8-3-
+### -1--
+### 4-93
+### -B--
+### --2C
